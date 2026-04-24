@@ -2,6 +2,8 @@
 
 Paste any YouTube URL, get a structured summary in seconds — TL;DR, key takeaways with clickable timestamps, memorable quotes, and a "who should watch this" verdict. Export as PDF or Markdown.
 
+The app can be used at - https://youtube-summarizer-ef5nf8fa4r6cjrkk9xk5j4.streamlit.app/
+
 
 ---
 
