@@ -1,0 +1,8 @@
+google-genai
+groq
+youtube-transcript-api
+python-dotenv
+rich
+click
+streamlit
+reportlab
